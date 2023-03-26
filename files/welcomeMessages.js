@@ -7,8 +7,7 @@ exports.NEW =
         },
         title: `**Merci d'avoir choisi FRANCE MEMES !**`,
         description: `Je vais être ton compagnon de route et te faire visiter FRANCE MEMES !
-        Tout d'abord, tu dois cocher quel type de membre tu veux être dans <#753639747255271516> !
-        Une fois la sélection effectuée, pour profiter pleinement du serveur, tu peux te faire certifier !`,
+        Une fois les questions passées et les règles acceptées, pour profiter pleinement du serveur, tu peux te faire certifier !`,
         fields: [
             {
                 name: "Instructions pour te faire certifier :",

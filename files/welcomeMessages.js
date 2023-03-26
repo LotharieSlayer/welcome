@@ -15,10 +15,6 @@ exports.NEW =
                 C'est tout ! Tu n'as plus qu'à attendre la vérification humaine, nous te préviendront si tu l'as reçu !`
             },
             {
-                name: "Vidéo de présentation en 18 secondes",
-                value: `https://youtu.be/BWG-YxwGjH8`
-            },
-            {
                 name: "Memes 24/24h sur Twitter",
                 value: `https://twitter.com/francememes_`
             },

@@ -7,17 +7,17 @@ exports.NEW =
         },
         title: `**Merci d'avoir choisi FRANCE MEMES !**`,
         description: `Je vais être ton compagnon de route et te faire visiter le serveur !
-        Une fois les questions terminées et les règles acceptées, tu peux te faire certifier pour profiter pleinement du serveur !`,
+        Une fois les questions terminées et les règles acceptées, tu dois te faire certifier pour profiter pleinement du serveur !`,
         fields: [
             {
                 "name": "Instructions pour te faire certifier :",
             "value": "**1.** Rends-toi dans le salon : <#746143384229380187>.\n" +
                      "**2.** Poste 3 memes (images, GIFs ou vidéos).\n" +
                      "**3.** Attends la vérification humaine.\n" +
-                     "On te préviendra une fois que tu seras certifié !"
+                     "On te préviendra une fois que tu seras certifié(e) !"
             },
             {
-                name: "Suivez nous sur Twitter",
+                name: "Suis nous sur Twitter",
                 value: `https://twitter.com/francememes_`
             },
             {

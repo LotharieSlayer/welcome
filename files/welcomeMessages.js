@@ -6,16 +6,18 @@ exports.NEW =
             icon_url: 'https://cdn.discordapp.com/avatars/784797683160317963/81d72ff0ef0b00779844d43ece16d096.webp'
         },
         title: `**Merci d'avoir choisi FRANCE MEMES !**`,
-        description: `Je vais être ton compagnon de route et te faire visiter FRANCE MEMES !
-        Une fois les questions passées et les règles acceptées, pour profiter pleinement du serveur, tu peux te faire certifier !`,
+        description: `Je vais être ton compagnon de route et te faire visiter le serveur !
+        Une fois les questions terminées et les règles acceptées, tu peux te faire certifier pour profiter pleinement du serveur !`,
         fields: [
             {
-                name: "Instructions pour te faire certifier :",
-                value: `Tu vas dans <#746143384229380187> et tu postes 3 memes !
-                C'est tout ! Tu n'as plus qu'à attendre la vérification humaine, nous te préviendront si tu l'as reçu !`
+                "name": "Instructions pour te faire certifier :",
+            "value": "**1.** Rends-toi dans le salon : <#746143384229380187>.\n" +
+                     "**2.** Poste 3 memes (images, GIFs ou vidéos).\n" +
+                     "**3.** Attends la vérification humaine.\n" +
+                     "On te préviendra une fois que tu seras certifié !"
             },
             {
-                name: "Memes 24/24h sur Twitter",
+                name: "Suivez nous sur Twitter",
                 value: `https://twitter.com/francememes_`
             },
             {
@@ -25,7 +27,7 @@ exports.NEW =
         ],
         timestamp: new Date(),
         footer: {
-            icon_url: 'https://cdn.discordapp.com/attachments/760963894469722142/904877119463624764/chieng-512.gif',
+            icon_url: 'https://cdn.discordapp.com/attachments/1312465047280156772/1312465266734792815/source_fm_1.png?ex=674c9808&is=674b4688&hm=b3ac057724b33b0ed584b8669abc98c01a328c1c02b7b292f68df073f64936a4&',
             text: `L'équipe FRANCE MEMES`
         }
     }

@@ -27,7 +27,7 @@ exports.NEW =
         ],
         timestamp: new Date(),
         footer: {
-            icon_url: 'https://cdn.discordapp.com/attachments/1312465047280156772/1312465266734792815/source_fm_1.png?ex=674c9808&is=674b4688&hm=b3ac057724b33b0ed584b8669abc98c01a328c1c02b7b292f68df073f64936a4&',
+            icon_url: 'https://cdn.discordapp.com/attachments/1312465047280156772/1312877742861058089/logo_FM_-_frame.png?ex=674e182d&is=674cc6ad&hm=ddc6e08b3a0c710bdfae5b22bda71b3effc2a577133c5879242536f3ffb88131&',
             text: `L'équipe FRANCE MEMES`
         }
     }

@@ -17,7 +17,11 @@ exports.NEW =
                      "On te préviendra une fois que tu seras certifié(e) !"
             },
             {
-                name: "Suis nous sur Twitter",
+                name: "Suis nous sur Bluesky",
+                value: `https://bsky.app/profile/francememes.bsky.social`
+            },
+            {
+                name: "Twitter",
                 value: `https://twitter.com/francememes_`
             },
             {
